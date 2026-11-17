@@ -29,3 +29,23 @@ El CRUD administra la tabla **`juegos`**, con categoría asociada mediante `cate
 ## Evidencias fotográficas (capturas reales)
 
 Las siguientes imágenes están guardadas en la carpeta **`capturas de limon/capturas ayala tp7/`**. Los enlaces son relativos a este README ubicado en `PixelPro/docs/`. Se respetaron los nombres originales, incluidos los dos espacios del TP5.
+
+
+
+## Evidencias fotográficas (capturas reales)
+
+### Listado de juegos
+
+![Listado de juegos](tp7-listado.png)
+
+### Crear un juego
+
+![Crear un juego](tp7-crear.png)
+
+### Editar un juego
+
+![Editar un juego](tp7-editar.png)
+
+### Eliminar un juego
+
+![Eliminar un juego](tp7-eliminar.png)
